@@ -242,3 +242,7 @@ export class ApiService {
   }
 }
 ```
+![django_api](https://github.com/Krish123-lang/django-angular-crud/assets/56486342/acbfe8d2-8e24-4b6c-a9e6-ee9332b790e3)
+
+![front-end](https://github.com/Krish123-lang/django-angular-crud/assets/56486342/14f7ddd6-1e8b-472b-828a-43503cfcd2fd)
+
